@@ -1,2 +1,2 @@
 # gray-wolf
-FPGA encoding using VHDL
+encoding FPGA by using VHDL
